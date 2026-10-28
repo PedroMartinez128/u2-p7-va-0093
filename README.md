@@ -1,2 +1,2 @@
 # u2-p7-va-0093
-Grafica de calificaciones 
+Grafica de calificaciones de dos alumnos
